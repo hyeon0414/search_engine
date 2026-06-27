@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Transparent&color=0A0A0A&height=100&section=header&text=search%20engine&fontSize=50" />
 
-python - exa, dotenv
+python - exa, dotenv 활용해 검색 엔진 개발
 
 ## **1. exa-py 라이브러리**
 ### Search
